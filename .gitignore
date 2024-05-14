@@ -118,3 +118,4 @@ modules.xml
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all,vscode,jupyternotebooks
+venv/
